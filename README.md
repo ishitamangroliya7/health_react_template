@@ -19,3 +19,6 @@ React: JavaScript library for building user interfaces.
 CSS: Custom styling for an attractive and responsive layout.
 
 FontAwesome: Icons for buttons and UI elements.
+
+
+![image alt](https://github.com/ishitamangroliya7/health_react_template/blob/4d38285d1578feeba5b54d0968e269c6dbab8555/Screenshot%20(106).png)
