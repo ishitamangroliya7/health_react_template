@@ -1,8 +1,21 @@
-# React + Vite
+Medral is a React-based single-page application designed to promote natural health solutions. It features a clean and user-friendly interface with multiple components showcasing health-related content, customer testimonials, and services.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features ==>
 
-Currently, two official plugins are available:
+Responsive Design: Fully responsive layout for optimal viewing on all devices.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Reusable Components: Modular structure with reusable components for scalability and maintainability.
+
+Scroll-to-Top Button: Smooth scrolling functionality for quick navigation to the banner section.
+
+Dynamic Content: Interactive elements like customer testimonials and service sections.
+
+Technologies Used ==>
+
+Vite: Blazing fast development build tool.
+
+React: JavaScript library for building user interfaces.
+
+CSS: Custom styling for an attractive and responsive layout.
+
+FontAwesome: Icons for buttons and UI elements.
