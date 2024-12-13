@@ -22,3 +22,7 @@ FontAwesome: Icons for buttons and UI elements.
 
 
 ![image alt](https://github.com/ishitamangroliya7/health_react_template/blob/4d38285d1578feeba5b54d0968e269c6dbab8555/Screenshot%20(106).png)
+
+![image alt](https://github.com/ishitamangroliya7/health_react_template/blob/4d38285d1578feeba5b54d0968e269c6dbab8555/Screenshot%20(107).png)
+
+![image alt](https://github.com/ishitamangroliya7/health_react_template/blob/9ba4484d3aaeeab578f7068c93aa93c061a09acf/Screenshot%20(109).png)
